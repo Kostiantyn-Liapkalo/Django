@@ -1,4 +1,4 @@
-## Джанго
+## Django
 
 
 1. Implement the ability to register on the site and enter the site.
