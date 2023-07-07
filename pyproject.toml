@@ -6,7 +6,8 @@ authors = ["Kostiantyn-Liapkalo <lynx87@ukr.net>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.10"
+pendulum = {git = "https://github.com/sdispater/pendulum.git"}
 
 
 [build-system]
